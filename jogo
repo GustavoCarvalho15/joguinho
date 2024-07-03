@@ -1,0 +1,7 @@
+#game variables
+var score : int 
+var game started : bool = false
+
+#grid variables
+var cells : 20
+var cell_size : 50
